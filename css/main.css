@@ -1,6 +1,7 @@
 @import url("primer.css");
 @import url(https://fonts.googleapis.com/css?family=Joti+One&subset=latin,latin-ext);
 @import url("https://cdnjs.cloudflare.com/ajax/libs/octicons/2.2.2/octicons.min.css");
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body {
   font-family: 'Open Sans', Verdana;
@@ -52,17 +53,6 @@ h1, #loadText {
     color: white;
     font-family: 'Joti One', cursive;
 }
-
-@font-face{
-	font-family: 'Joti One';
-	src: url('../fonts/happy_sans-webfont.eot');
-	src: url('../fonts/happy_sans-webfont.eot?#iefix') format('embedded-opentype'),
-	     url('../fonts/happy_sans-webfont.woff') format('woff'),
-	     url('../fonts/happy_sans-webfont.ttf') format('truetype'),
-	     url('../fonts/happy_sans-webfont.svg#webfont') format('svg');
-}
-
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
 .controls {
     width: 200px;
