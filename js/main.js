@@ -168,11 +168,10 @@ mit.main = function() {
 
   // Share links
   var tweet = document.getElementById("tweet");
-  tweet.href='http://twitter.com/share?url=http://khele.in/pappu-pakia/&text=I am playing Pappu Pakia, a cute HTML5 game on khele.in!&count=horiztonal&via=_rishabhp&related=solitarydesigns';
+  tweet.href='http://twitter.com/share?url=http://ionicabizau.github.io/octo-pakia/&text=I am playing Octo Pakia, a cute HTML5 game! #ggo15&count=horiztonal&via=ionicabizau';
 
   var facebook = document.getElementById("fb");
-  facebook.href='http://facebook.com/sharer.php?s=100&p[url]=http://khele.in/pappu-pakia/&p[title]=I am playing Pappu Pakia, a cute HTML5 game on khele.in!';
-
+  facebook.href='http://facebook.com/sharer.php?s=100&p[url]=http://ionicabizau.github.io/octo-pakia/&p[title]=I am playing Octo Pakia, a cute HTML5 game!';
 
   // Score Board
   mit.score = 0;
@@ -327,10 +326,10 @@ mit.main = function() {
 
     // Share
     var tweet = document.getElementById("tweet");
-    tweet.href='http://twitter.com/share?url=http://khele.in/pappu-pakia/&text=I just scored ' +Math.floor(mit.score)+ ' points in Pappu Pakia!&count=horiztonal&via=_rishabhp&related=solitarydesigns';
+    tweet.href='http://twitter.com/share?url=http://ionicabizau.github.io/octo-pakia/&text=I just scored ' +Math.floor(mit.score)+ ' points in Octo Pakia!&count=horiztonal&via=ionicabizau';
 
     var facebook = document.getElementById("fb");
-    facebook.href='http://facebook.com/sharer.php?s=100&p[url]=http://khele.in/pappu-pakia/&p[title]=I just scored ' +Math.floor(mit.score)+ ' points in the Pappu Pakia!';
+    facebook.href='http://facebook.com/sharer.php?s=100&p[url]=http://ionicabizau.github.io/octo-pakia/&p[title]=I just scored ' +Math.floor(mit.score)+ ' points in the Octo Pakia!';
 
   };
 
