@@ -1,7 +1,7 @@
 {
   "name": "octo-pakia",
   "version": "1.1.0",
-  "description": "![Octo Pakia](http://i.imgur.com/MeEBu1E.png)",
+  "description": "A game with octocats!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -27,7 +27,7 @@
     "h_url": "http://ionicabizau.github.io/octo-pakia/",
     "ex_img": "http://i.imgur.com/pTQVPRl.jpg",
     "ex_url": "http://ionicabizau.github.io/octo-pakia/",
-    "description": [
+    "installation": [
       {
         "h2": "How to play"
       },

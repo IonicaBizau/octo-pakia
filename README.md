@@ -2,7 +2,9 @@
 
 # Octo Pakia [![Support this project][donate-now]][paypal-donations]
 
-![Octo Pakia](http://i.imgur.com/MeEBu1E.png)
+A game with octocats!
+
+[![octo-pakia](http://i.imgur.com/pTQVPRl.jpg)](http://ionicabizau.github.io/octo-pakia/)
 
 ## How to play
 
@@ -29,8 +31,6 @@ This HTML5 Game (OctoPakia) has been happily _changed_ for the [Github's Game Of
  - This game was initially named _Pappu Pakia_ and it was created by [Rishabh](https://twitter.com/_rishabhp) and [Kushagra](https://twitter.com/solitarydesigns). Thanks to [Rezoner](http://rezoner.net/) for Music.
  - [IonicaBizau](https://twitter.com/IonicaBizau) changed it by replacing the sprites into [Octocats designed by GitHubbers](http://octodex.github.com). Also the interface was enhanced by using [Primer](http://primercss.io/) and [Octicons](https://octicons.github.com/).
  - All other sounds produced by personal thingies like mouths, hands and books. Some tricks and tips that we learnt while making this game has been shared on [CodeTheory](http://codetheory.in) and [CSSDeck](http://cssdeck.com/codecasts).
-
-[![octo-pakia](http://i.imgur.com/pTQVPRl.jpg)](http://ionicabizau.github.io/octo-pakia/)
 
 ## How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
