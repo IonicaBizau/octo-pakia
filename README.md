@@ -1,8 +1,8 @@
 [![octo-pakia](http://i.imgur.com/MeEBu1E.png)](http://ionicabizau.github.io/octo-pakia/)
 
-# Octo Pakia [![Support this project][donate-now]][paypal-donations]
+# Octo Pakia [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/octo-pakia.svg)](https://www.npmjs.com/package/octo-pakia) [![Downloads](https://img.shields.io/npm/dt/octo-pakia.svg)](https://www.npmjs.com/package/octo-pakia) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-A game with octocats!
+> A game with octocats!
 
 [![octo-pakia](http://i.imgur.com/pTQVPRl.jpg)](http://ionicabizau.github.io/octo-pakia/)
 
