@@ -1,3 +1,4 @@
+
 [![octo-pakia](http://i.imgur.com/MeEBu1E.png)](http://ionicabizau.github.io/octo-pakia/)
 
 # Octo Pakia [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/octo-pakia.svg)](https://www.npmjs.com/package/octo-pakia) [![Downloads](https://img.shields.io/npm/dt/octo-pakia.svg)](https://www.npmjs.com/package/octo-pakia) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
@@ -12,9 +13,11 @@ You are an octocat in the game (specifically a [Jetpacktocat](https://octodex.gi
 
 There will be some obstacles along the way like **forks**, **branches** and some **enemies** who are also known as _pakias_. There are 3 types of pakias (which are actually other octocats as well):
 
+
  - sad (pull you)
  - happy (push you)
  - angry (kill you)
+
 
 Keep safe distance from them (especially from the angry ones)!
 
@@ -32,10 +35,12 @@ This HTML5 Game (OctoPakia) has been happily _changed_ for the [Github's Game Of
  - [IonicaBizau](https://twitter.com/IonicaBizau) changed it by replacing the sprites into [Octocats designed by GitHubbers](http://octodex.github.com). Also the interface was enhanced by using [Primer](http://primercss.io/) and [Octicons](https://octicons.github.com/).
  - All other sounds produced by personal thingies like mouths, hands and books. Some tricks and tips that we learnt while making this game has been shared on [CodeTheory](http://codetheory.in) and [CSSDeck](http://cssdeck.com/codecasts).
 
-## How to contribute
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## License
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
