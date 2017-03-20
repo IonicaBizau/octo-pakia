@@ -1,6 +1,6 @@
 {
   "name": "octo-pakia",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "A game with octocats!",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "pakia",
     "fork"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/octo-pakia/issues"
@@ -73,12 +73,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
