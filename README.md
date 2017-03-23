@@ -20,6 +20,7 @@ There will be some obstacles along the way like **forks**, **branches** and some
  - happy (push you)
  - angry (kill you)
 
+
 Keep safe distance from them (especially from the angry ones)!
 
 There are some collectibles too! Coins for points (yellow for 50, pink for 100, red for 500). [Topguntocat](https://octodex.github.com/topguntocat/)s for invincibility for a short period. [Socialite](https://octodex.github.com/socialite/) cats will spawn clones that'll destroy anything that comes in their way!
@@ -35,6 +36,7 @@ This HTML5 Game (OctoPakia) has been happily _changed_ for the [Github's Game Of
  - This game was initially named _Pappu Pakia_ and it was created by [Rishabh](https://twitter.com/_rishabhp) and [Kushagra](https://twitter.com/solitarydesigns). Thanks to [Rezoner](http://rezoner.net/) for Music.
  - [IonicaBizau](https://twitter.com/IonicaBizau) changed it by replacing the sprites into [Octocats designed by GitHubbers](http://octodex.github.com). Also the interface was enhanced by using [Primer](http://primercss.io/) and [Octicons](https://octicons.github.com/).
  - All other sounds produced by personal thingies like mouths, hands and books. Some tricks and tips that we learnt while making this game has been shared on [CodeTheory](http://codetheory.in) and [CSSDeck](http://cssdeck.com/codecasts).
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
