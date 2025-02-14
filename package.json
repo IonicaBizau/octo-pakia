@@ -1,6 +1,6 @@
 {
   "name": "octo-pakia",
-  "version": "1.1.10",
+  "version": "1.1.11",
   "description": "A game with octocats!",
   "main": "lib/index.js",
   "scripts": {
@@ -80,6 +80,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
